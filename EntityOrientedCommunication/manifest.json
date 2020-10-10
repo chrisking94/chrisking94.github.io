@@ -1,0 +1,462 @@
+{
+  "homepages": [],
+  "source_base_path": "G:/git/EntityOrientedCommunication/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventArgs.html",
+          "hash": "9lsVgHNbgN/5CH6wyCFfkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventHandler.html",
+          "hash": "mgLXmEOLtCCyLXceTcercw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.ClientAgentEventType.html",
+          "hash": "LmTEpXeoxzbuLx97Kh70xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.ClientMailBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.ClientMailBox.html",
+          "hash": "l1OokChgmWE93GyAAOWaXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.ClientPostOffice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.ClientPostOffice.html",
+          "hash": "kwlDGMt06C6dxJg9484lFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.IClientAgent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.IClientAgent.html",
+          "hash": "UgkWu3kHB5Ka9LdBER3Hiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventArgs.html",
+          "hash": "arWfNNRutS9mVN8dOOYHRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventHandler.html",
+          "hash": "S4ldPEQHNF1YojiP8YRTwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.PostOfficeEventType.html",
+          "hash": "A2e8JLoCzyS2JsvwL5Cl8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Client.html",
+          "hash": "6u/AdCOYzfU+oOcgoH4wXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Configuration.html",
+          "hash": "4yUaZGcQaNhoPMsmNH7ArQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.ConnectionPhase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.ConnectionPhase.html",
+          "hash": "hJjx6GnvpqIeX2pMfgssdQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.EOCException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.EOCException.html",
+          "hash": "7xP6ykCSNVu8qAHAXwLohA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.IEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.IEntity.html",
+          "hash": "Cb4yQ5HV5pARktdSRZ+krg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.ILetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.ILetter.html",
+          "hash": "CudJmKUEh45ZwetNEz2IZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.ISerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.ISerializer.html",
+          "hash": "Gx0+Xr0hwuAlW3T+Cx84Iw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.IUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.IUser.html",
+          "hash": "V32MGmqRuAv7XeIY6OTMbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.LetterContent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.LetterContent.html",
+          "hash": "W1FLOv3YC0LLEpamPqQJFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.LogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.LogType.html",
+          "hash": "CPCLgaO8d0D+jCXkjRYTFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Logger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Logger.html",
+          "hash": "ZbsieK0FNiT0NROJGRAOlQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Server.IServerUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Server.IServerUser.html",
+          "hash": "GTSUcS6rfsq0YRysiV5SoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Server.Server.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Server.Server.html",
+          "hash": "PY1PwrR4TDw3tVJeindRew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Server.ServerMailCenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Server.ServerMailCenter.html",
+          "hash": "B6GXbYP2J1+xUvQ0Hoqf9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.Server.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.Server.html",
+          "hash": "c2ihaIS/K+XwwqokWW7zLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.TExceptionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.TExceptionType.html",
+          "hash": "pxTPdFuHWbOJhGO0X3fwHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.TransmissionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.TransmissionMode.html",
+          "hash": "qShlPJWc7WDLaeJZbgYVng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.User.html",
+          "hash": "RnnAvtjM82WEWnRTBZjXMA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EntityOrientedCommunication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EntityOrientedCommunication.html",
+          "hash": "6bn6SE0heSOLKgowYQ6pVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "/y5HaknZ7XopHipu0L8sZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "08Dvzo8ix+UlbU77mfSXlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "AQ1MJVPvH89mjI2TmYKJUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "OWAFEph738CSx1dA/XOgAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 28,
+          "skipped_file_count": 28
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
